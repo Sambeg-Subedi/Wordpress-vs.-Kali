@@ -11,7 +11,7 @@ Time spent: **10** hours spent in total
 - Tested in version: 4.2
 - Fixed in version: 4.6.1
 - [x] GIF Walkthrough:
-<img src='image.' title='imageGif' alt='imageGif' />
+<img src='https://github.com/Sambeg-Subedi/Wordpress-vs.-Kali/blob/master/Image.gif' title='imageGif' alt='imageGif' />
 
 
 - [x] Steps to recreate: Create a new media post and upload an image with the following filename format:
@@ -27,7 +27,7 @@ filename<img src=a onerror=alert(1)>.jpeg
 - Tested in version: 4.2
 - [x] GIF Walkthrough: 
 
-<img src='signin.gif' title='imageGif' alt='imageGif' />
+<img src='https://github.com/Sambeg-Subedi/Wordpress-vs.-Kali/blob/master/SignIn.gif' title='imageGif' alt='imageGif' />
 
 
 - [x] Steps to recreate:
@@ -41,7 +41,7 @@ during the processing of shortcode tags are mishandled.
 - Tested in version: 4.2
 - Fixed in version: 4.3
 - [x] GIF Walkthrough:
-<img src='alert.gif'  title='imageGif' alt='imageGif' />
+<img src='https://github.com/Sambeg-Subedi/Wordpress-vs.-Kali/blob/master/Alert.gif'  title='imageGif' alt='imageGif' />
 
 - [x] Steps to recreate: Create a new post and place the following code in the body:
 
@@ -62,7 +62,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-Copyright [2019] [Sambeg Raj Subedi]
+Copyright [2020] [Sambeg Raj Subedi]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
