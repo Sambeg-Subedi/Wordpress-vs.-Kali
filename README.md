@@ -46,7 +46,7 @@ during the processing of shortcode tags are mishandled.
 - [x] Steps to recreate: Create a new post and place the following code in the body:
 
 ```
-<a href="" onclick="alert(1)">try</a>
+<a href="" onclick="alert(1)">checking</a>
 ```
 
 # Resources
